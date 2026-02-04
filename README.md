@@ -12,9 +12,9 @@ Professional landing page for Pete - AI Employee for Manufacturing Operations
 
 ## Deployment
 Ready to deploy to Netlify:
-1. Connect bypete.com domain in Netlify
+1. Connect pete.by-pete.com domain in Netlify
 2. Push to GitHub or deploy directly
-3. Site will be live at bypete.com
+3. Site will be live at pete.by-pete.com
 
 ## Tech
 - Pure HTML/CSS (no dependencies)
@@ -22,4 +22,4 @@ Ready to deploy to Netlify:
 - Form handling via Formspree
 
 ## Contact Form
-Form submissions go to: pete@bypete.com (via Formspree)
+Form submissions go to: pete@pete.by-pete.com (via Formspree)
