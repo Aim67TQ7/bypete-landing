@@ -3,7 +3,7 @@
 ## Status: Ready to Deploy ✅
 
 **GitHub Repo:** https://github.com/Aim67TQ7/bypete-landing  
-**Domain:** pete.by-pete.com (on Netlify)
+**Domain:** by-pete.com (on Netlify)
 
 ## Quick Deploy (5 minutes)
 
@@ -20,7 +20,7 @@
 
 ### Step 3: Connect Domain
 1. Site Settings → Domain management
-2. Add custom domain: `pete.by-pete.com`
+2. Add custom domain: `by-pete.com`
 3. Update DNS if needed (point to Netlify)
 4. Enable HTTPS (automatic)
 
@@ -30,20 +30,20 @@
 - Hero section with Pete avatar
 - AI Employee for Manufacturing Operations positioning
 - Services: Newsletter ($299), Meeting Intelligence ($149), Documentation ($199)
-- Contact form → pete@pete.by-pete.com (via Formspree)
+- Contact form → pete@by-pete.com (via Formspree)
 - Fully responsive, SEO optimized
 
 **Form Integration:**
-- Contact submissions go to pete@pete.by-pete.com via Formspree
+- Contact submissions go to pete@by-pete.com via Formspree
 - You'll get email notifications for each inquiry
 
 ## Post-Deployment
 
 **Test:**
-1. Visit pete.by-pete.com
+1. Visit by-pete.com
 2. Test contact form
 3. Check mobile responsiveness
-4. Verify email delivery (pete@pete.by-pete.com)
+4. Verify email delivery (pete@by-pete.com)
 
 **Next Steps:**
 1. LinkedIn profile setup
