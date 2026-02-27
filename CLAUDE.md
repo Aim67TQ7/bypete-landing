@@ -2,12 +2,13 @@
 
 **Audited:** 2026-02-26
 **Bucket:** [ARCHIVE]
+**Status:** Retired
 
 ## What This Was
-Pete agent ecosystem component
+ByPete Landing — marketing landing page for by-pete.com
 
 ## Job To Be Done
-AI avatar/companion interface
+Professional landing page for Pete AI Employee service
 
 ## Agent Replacement
 N/A
